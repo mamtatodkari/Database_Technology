@@ -1,0 +1,11 @@
+Which field of the Customers table is the primary key?
+--> primary key is nothing but a single or group of fields or colunms that can unquiely identify a row in table or it is colunm taht can accept unique values for each row so in customer table is Cnum.
+
+2) What is the 4th column of the Customers table?
+--> rating
+
+3) What is another word for row? For column?
+row is also known as record or tuple and colunm is also known as field or attribute
+
+4) Why isn’t it possible to see the first five rows of a table?
+. SQL tables represent unordered sets of rows, so without an ORDER BY clause, there's no guarantee which rows will be considered the "first."
